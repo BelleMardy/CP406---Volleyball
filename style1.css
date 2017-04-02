@@ -1,0 +1,161 @@
+/* Index page layout */
+
+/* add images */
+/* change logo to single images and resize*/
+/* get correct fonts from Google to work*/
+/* add Google customer analitics*/
+
+.banner {
+    font-family: 'Rammetto One', Arial;
+    font-size: 200%;
+    border-radius: 9px;
+    width: 100%;
+    height: 100%;
+    border-style: double;
+    border-color: gold;
+    padding: 6%;
+    margin: 0px;
+    background: linear-gradient(orange, yellow);
+    background-image: url("IMAGES/2017.04.02 - Logo - VolleyBall.png");
+    margin-left: -1%
+
+}
+
+#navigation {
+
+    background-color: black;
+    font-weight: bold;
+    font-color: gold;
+    width: 200px;
+    height: 200px;
+    border-style: double;
+    border-color:gold;
+    border-radius: 15px;
+    padding: 20px;
+    border-color: gold;
+
+
+}
+
+
+body {
+    background-image: url("IMAGES/2017.03.21 - Sand - sand.jpg");
+}
+
+C:\Users\Belle\Documents\JCU\2017.01 - STUDY\CP1406 - Web Design and Development\VOLLEY BALL ASSIGNMENT\IMAGES\2017.03.21 - Sand - sand.jpg
+.image_1_index img{
+    max-width:100%;
+    float:right;
+    padding:0;
+    margin: 10px 10px 10px 10px;
+}
+background image []
+
+image_1_index {
+    border: 1px solid black;
+    background-image: url(IMAGES/2017.03.21 - Sand - sand.jpg);
+    min-height: 100%;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0;
+}
+
+
+
+}
+
+body text {
+    font-family: Arial;
+    font-size: xx-large;
+    border-style: dashed;
+    border-color: gold;
+    padding: 30px;
+}
+
+h1 {
+    font-family: Arial;
+    font-size: xx-large;
+}
+
+button {
+    border-radius: 50%;
+    background-color: yellow;
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    width: 150%
+    font-size: 50px;
+}
+
+
+
+
+
+.header-cont {
+    width:100%;
+    position:fixed;
+    top:0px;
+}
+.header {
+    height:50px;
+    background:#F0F0F0;
+    border:1px solid #CCC;
+    margin:0px auto;
+}
+.content {
+    background: #black;
+    border: 1px solid #CCC;
+    margin: 70px auto;
+}
+.header-cont
+
+
+a:link {
+    color: black
+}
+
+ul {
+    font-weight: bold;
+    font-style: italic;
+}
+
+li {
+    color: blue;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.navagation {
+    padding: 7px;
+    color: deepskyblue;
+    border-color: black;
+    border-style: solid;
+    border-radius: 9px;
+}
+
+#relevantpoints {
+    border-style: solid;
+    border-color: gold;
+    border-radius: 9px;
+    width: 100%;
+    height: 100%;
+    background-color: sandybrown;
+    font-family: Arial;
+    color: green;
+    margin-left: 40%;
+}
+
+.specificpoints {
+    color: blue;
+    font-weight: bold;
+    font-style: italic;
+    border-style: solid;
+    border-color: gold;
+    border-radius: 9px;
+    width: 100%;
+    height: 100%;
+    background-color: orange;
+}
